@@ -1,15 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "product": [
+    { "id": 1, "title": "Manzana","precio": 150,"disponibles":10  },
+    { "id": 2, "title": "Pera","precio": 100,"disponibles":20   },
+    { "id": 3, "title": "Uva","precio": 400,"disponibles":5   },
+    { "id": 4, "title": "Sandía","precio": 200,"disponibles":10  }
+  ]
+  
 }
